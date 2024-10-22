@@ -667,22 +667,3 @@ Grafik sonuçlarından balıkların yoğunluk gösterdiği bölge tespit edilmi�
 knitr::include_graphics('C:/Users/yasem/OneDrive/Masaüstü/balık.jpg')
 ```
 
-
-# GitHub LİNKİ
-
-https://github.com/yaseminhzrc/BaliklarNerede
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
